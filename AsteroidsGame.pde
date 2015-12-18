@@ -14,12 +14,7 @@ double grav;
 boolean hyperspace;
 boolean boom;
 int cdBoots=0;
-int boost;
-int megaBoost;
-int []x2Corners;
-int []y2Corners;
-int []x3Corners;
-int []y3Corners;
+
 public void setup()
 
 {
